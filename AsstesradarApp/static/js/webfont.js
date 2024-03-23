@@ -1,4 +1,3 @@
-{% load static %}
 <!DOCTYPE html>
 <html data-wf-domain="wellness-cms.webflow.io" data-wf-page=5b155db3ecb0bd9ab50d2c0f data-wf-site=5ac4f751b50fc9186ae6aeb1>
 
@@ -10,11 +9,11 @@
     name="description" />
 
 
-    <link href="{% static '/css/wellness-cms.webflow.5eb1ff288.css' %}" rel="stylesheet" type="text/css" />
-    <link href="{% static '/css/extra.css' %}" rel="stylesheet" type="text/css" />
-    <link href="{% static '/css/custom.css' %}" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="{% static '/css/animate.css' %}" type="text/css" />
-    <script src="{% static '/js/webfont.js' %}" type="text/javascript"></script>
+    <link href="css/wellness-cms.webflow.5eb1ff288.css" rel="stylesheet" type="text/css" />
+    <link href="css/extra.css" rel="stylesheet" type="text/css" />
+    <link href="css/custom.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/animate.css" type="text/css" />
+    <script src="js/webfont.js" type="text/javascript"></script>
     <script type="text/javascript">
         WebFont.load({
             google: {
@@ -34,14 +33,14 @@
                 .className += t + "touch")
         }(window, document);
     </script>
-    <link href="{% static '/img/favicon.png' %}" rel="shortcut icon" type="image/x-icon" />
-    <link href="{% static '/img/favicon.png' %}" rel="apple-touch-icon" />
+    <link href="img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="img/favicon.png" rel="apple-touch-icon" />
     <style>
         .price-tab {
             display: none
         }
     </style>
-    <link href="{% static 'basic.css' %}" rel="stylesheet" />
+    <link href="basic.css" rel="stylesheet" />
     
 </head>
 
@@ -1369,7 +1368,7 @@
                         <div class="red-line"></div><br />
                         <ul style="color:white">
                             <li>+1 (770) 764-5821</li>
-                            <li>support@asstesradar.com</li>
+                            <li>support@hubstradelimited.com</li>
                             <li>Flat 28 Snowman House, Abbey Road, London, England, NW6 4DN</li>
                         </ul>
                     </div>
