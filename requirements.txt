@@ -6,4 +6,3 @@ utils==1.0.1
 whitenoise==5.0.1
 django-widget-tweaks
 django_crontab
-django_storage
